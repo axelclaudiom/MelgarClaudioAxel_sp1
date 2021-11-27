@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1637969092 source:c:\users\axel\desktop\programacion\parcial peliculas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"peliculas.h"
+	"controller.h"
+	<time.h>
+	"inputs.h"
+
+1637966060 source:c:\users\axel\desktop\programacion\parcial peliculas\peliculas.c
+	"peliculas.h"
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1637966003 c:\users\axel\desktop\programacion\parcial peliculas\peliculas.h
+
+1637969120 source:c:\users\axel\desktop\programacion\parcial peliculas\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"peliculas.h"
+	"inputs.h"
+	"parser.h"
+	"controller.h"
+
+1637955831 c:\users\axel\desktop\programacion\parcial peliculas\linkedlist.h
+
+1637638759 c:\users\axel\desktop\programacion\parcial peliculas\inputs.h
+
+1637967030 c:\users\axel\desktop\programacion\parcial peliculas\parser.h
+
+1637969103 c:\users\axel\desktop\programacion\parcial peliculas\controller.h
+
+1637967264 source:c:\users\axel\desktop\programacion\parcial peliculas\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"peliculas.h"
+	"parser.h"
+
+1637638714 source:c:\users\axel\desktop\programacion\parcial peliculas\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637958173 source:c:\users\axel\desktop\programacion\parcial peliculas\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
